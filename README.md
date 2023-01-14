@@ -12,7 +12,7 @@ Unfortunately, there is no way currently to compile this code on any other OS th
 
 ## Embedded x86 assembly
 
-This is a snake game made in x86 assembly, embedded in a C++.
+This is a snake game made in x86 assembly, embedded in C++.
 
 ### How to run it
 
